@@ -1,0 +1,1457 @@
+,smart_institution2,count
+0,University Of Alabama At Birmingham,477
+1,University Of Michigan,348
+2,University Of Wisconsin,179
+3,Brigham And Women'S Hospital,166
+4,Massachusetts General Hospital,165
+5,Stanford University,163
+6,Johns Hopkins University School Of Medicine,157
+7,Indiana University School Of Medicine,156
+8,Yale University School Of Medicine,152
+9,University Of Miami,148
+10,University Of Texas Southwestern Medical Center,146
+11,Medical College Of Wisconsin,138
+12,University Of Florida,138
+13,University Of Arizona,132
+14,University Of Colorado Denver,119
+15,David Geffen School Of Medicine,113
+16,Duke University Medical Center,110
+17,University Of North Carolina At Chapel Hill,107
+18,Hospital Of The University Of Pennsylvania,107
+19,Feinberg School Of Medicine - Northwestern University,103
+20,University Of Pennsylvania,103
+21,Ohio State University,100
+22,University Of Utah,91
+23,Vanderbilt University Medical Center,90
+24,University Of California - San Francisco,87
+25,University Of Texas Health Science Center At Houston,84
+26,University Of Cincinnati,80
+27,University Of Pittsburgh,80
+28,Temple University,79
+29,Baylor College Of Medicine,78
+30,Beth Israel Deaconess Medical Center,78
+31,University Of California - Los Angeles,74
+32,University Of Chicago,73
+33,Roswell Park Cancer Institute,73
+34,Texas Children'S Hospital,71
+35,University Of Virginia,70
+36,University Of California - San Diego,57
+37,University Of Louisville,56
+38,Children'S Hospital Los Angeles,56
+39,Mayo Clinic,53
+40,Emory University School Of Medicine,52
+41,University Of Texas Medical Branch,52
+42,Northwestern University,51
+43,Thomas Jefferson University,48
+44,Howard University College Of Medicine,48
+45,University Of Kentucky,46
+46,Cedars-Sinai Medical Center,46
+47,University Of Iowa,45
+48,Washington University,43
+49,University Of South Florida College Of Medicine,43
+50,Mcgovern Medical School At Uthealth,41
+51,University Of California - Irvine,41
+52,Rush University Medical Center,40
+53,Fox Chase Cancer Center,40
+54,Wright State University,38
+55,Brown University School Of Medicine,38
+56,Niigata University Graduate School Of Medical And Dental Sciences,38
+57,University Of Tennessee Health Science Center,37
+58,University Of Pittsburgh Medical Center,37
+59,University Of Pittsburg,36
+60,Nationwide Children'S Hospital,36
+61,Virginia Commonwealth University,36
+62,Carolinas Medical Center,35
+63,New York University School Of Medicine,35
+64,Moffitt Cancer Center And Research Institute,34
+65,Loyola University Chicago Stritch School Of Medicine,34
+66,Children'S Mercy Hospital- University Of Missouri Kansas City,33
+67,Aga Khan University Medical College,33
+68,Delray Medical Center,32
+69,University Of Maryland,32
+70,University Of Southern California,31
+71,The Johns Hopkins University School Of Medicine,31
+72,University Of Rochester,31
+73,University Of Massachusetts Medical School,30
+74,Tulane University School Of Medicine,30
+75,Stony Brook University Medical Center,30
+76,University Of Texas Md Anderson Cancer Center,30
+77,University Of California - Davis,29
+78,Mount Sinai School Of Medicine,28
+79,University Of Minnesota,28
+80,Loyola University Medical Center,27
+81,Weill Cornell Medical College,27
+82,University Of Nebraska College Of Medicine,27
+83,University Of Vermont College Of Medicine / Fletcher Allen Health Care,27
+84,Case Western Reserve University School Of Medicine,27
+85,Wake Forest University School Of Medicine,27
+86,State University Of New York At Buffalo,26
+87,University Of Wisconsin School Of Medicine And Public Health,26
+88,Penn State Hershey Medical Center,26
+89,North Shore University And Long Island Jewish Medical Center,26
+90,New Jersey Medical School,24
+91,University Of Missouri,23
+92,University Of Toledo Medical Center,23
+93,Tufts Medical Center,23
+94,University Of Arkansas For Medical Sciences,23
+95,Georgetown University Medical Center,22
+96,Saint Barnabas Medical Center,21
+97,University Of California,21
+98,Boston University,21
+99,Wayne State University,21
+100,Medical University Of South Carolina,21
+101,Geisinger Medical Center,21
+102,University Of Michigan Medical School,20
+103,Drexel University College Of Medicine,20
+104,University Of Oklahoma College Of Medicine,19
+105,Children'S Hospital Colorado,19
+106,East Carolina University Brody School Of Medicine,19
+107,Penn State University College Of Medicine,19
+108,The Ohio State University Wexner Medical Center,19
+109,Texas Tech University Health Sciences Center,19
+110,Ann & Robert H. Lurie Children'S Hospital Of Chicago,18
+111,University Of Illinois At Chicago,18
+112,Cleveland Clinic,18
+113,Michael E. Debakey Veterans Affairs Medical Center,18
+114,Dartmouth Hitchcock Medical Center,17
+115,Dartmouth-Hitchcock Medical Center,17
+116,Louisiana State University Health Sciences Center,17
+117,University Hospitals Cleveland Medical Center,17
+118,The Jikei University School Of Medicine,17
+119,Metrohealth Medical Center,17
+120,George Washington University School Of Medicine And Health Sciences,17
+121,Oregon Health And Science University,17
+122,Broward Health Medical Center,16
+123,The Ohio State University,16
+124,Boston Children'S Hospital,16
+125,University Of New Mexico Hsc,16
+126,Stanford University School Of Medicine,16
+127,St. Luke'S University Health Network,15
+128,Cooper University Hospital,15
+129,Cincinnati Children'S Hospital Medical Center,15
+130,Mcgovern Medical School,15
+131,Florida Atlantic University,15
+132,City Of Hope National Medical Center,14
+133,University Of Texas Health Science Center At San Antonio,14
+134,Grant Medical Center,14
+135,State University Of New York Downstate Medical Center,14
+136,Icahn School Of Medicine At Mount Sinai,14
+137,Michigan State University,14
+138,Medstar Health Research Institute,13
+139,Medstar Washington Hospital Center,13
+140,Children'S Hospital Boston,13
+141,University Of South Alabama,13
+142,Ohiohealth Grant Medical Center,12
+143,University Of Alabama,12
+144,Children'S Hospital Of Wisconsin,12
+145,University Of Nebraska Medical Center,12
+146,New York Presbyterian Hospital,12
+147,Department Of Surgery,12
+148,University Of Kansas,12
+149,Albany Medical College,12
+150,Westchester Medical Center,12
+151,Seattle Children'S Hospital,12
+152,West Virginia University,12
+153,Boston Medical Center,12
+154,Southern Illinois University School Of Medicine,12
+155,National Cancer Institute,11
+156,University Of Toronto,11
+157,Houston Methodist Hospital,11
+158,Temple University Hospital,11
+159,University Of Miami Miller School Of Medicine,11
+160,University Of Colorado,11
+161,Radboudumc,11
+162,Rutgers New Jersey Medical School,11
+163,Eastern Virginia Medical School,11
+164,Abington Memorial Hospital,11
+165,Univeristy Of Tennessee Health Science Center,11
+166,Tokyo Medical And Dental University,10
+167,University Of Washington,10
+168,Creighton University Medical Center,10
+169,Boston University School Of Medicine,10
+170,John Hunter Hospital,10
+171,Emory University,10
+172,Texas Heart Institute,10
+173,University Of Miami Leonard M. Miller School Of Medicine,10
+174,Radboud University Medical Center,10
+175,Madigan Army Medical Center,10
+176,University Of Colorado School Of Medicine,10
+177,Yale University,9
+178,Central Michigan University College Of Medicine,9
+179,University Of Tennessee Graduate School Of Medicine,9
+180,Laboratory For Fetal And Regenerative Biology,9
+181,University Of Florida College Of Medicine,9
+182,Rhode Island Hospital,9
+183,Harvard School Of Medicine,9
+184,Columbia University College Of Physicians And Surgeons,9
+185,University Of Cambridge,9
+186,University Of Kansas Medical Center,9
+187,University Of California San Francisco,9
+188,Guthrie Robert Packer Hospital,9
+189,Moffitt Cancer Center,8
+190,Florida State University College Of Medicine,8
+191,Maine Medical Center,8
+192,Perelman School Of Medicine,8
+193,University Of South Florida Morsani College Of Medicine,8
+194,University Of Mississippi,8
+195,Sinai Hospital Of Baltimore,8
+196,University Of Alberta,8
+197,Guthrie Clinic,8
+198,Holy Cross Hospital,8
+199,Thomas Jefferson University Hospital,8
+200,Brown University,8
+201,Saint Louis University School Of Medicine,8
+202,Brooke Army Medical Center,8
+203,Johns Hopkins All Children'S Hospital,8
+204,Marshall University School Of Medicine,8
+205,Suny Downstate Medical Center,8
+206,Northwestern University Feinberg School Of Medicine,8
+207,Nova Southeastern University,7
+208,Donald And Barbara Zucker School Of Medicine At Hofstra/Northwell,7
+209,Robert Wood Johnson - Umdnj,7
+210,Kendall Regional Medical Center,7
+211,San Joaquin General Hospital,7
+212,Medical College Of Georgia,7
+213,Inova Fairfax Hospital,7
+214,Scott & White Healthcare,7
+215,Virginia Tech Carilion School Of Medicine,7
+216,Indiana University,7
+217,Cancer Institute Of New Jersey,7
+218,Lewis Katz School Of Medicine At Temple University,7
+219,Henry Ford Health System,7
+220,Mayo Clinic - Florida,7
+221,University Of North Carolina,7
+222,Michigan Medicine,7
+223,Ut Southwestern Medical Center,7
+224,Lehigh Valley Health Network,7
+225,Ann And Robert H. Lurie Children'S Hospital Of Chicago,7
+226,Kobe University Graduate School Of Medicine,7
+227,Children'S Mercy Hospital,7
+228,Children'S Memorial Hermann Hospital,7
+229,Price Institute Of Surgical Research,7
+230,University Of Pittsburgh School Of Medicine,7
+231,University Of Auckland,7
+232,Montefiore Medical Center,7
+233,East Tennessee State University,6
+234,Washington Hospital Center,6
+235,Baystate Medical Center,6
+236,Duke University,6
+237,Albert Einstein College Of Medicine,6
+238,Henry Ford Hospital,6
+239,Wright State University Boonshoft School Of Medicine,6
+240,Harbor-Ucla Medical Center,6
+241,Mount Sinai Hospital,6
+242,Brandon Regional Hospital,6
+243,Loma Linda University Children'S Hospital,6
+244,New York Medical College,6
+245,Washington University In St. Louis,6
+246,Anne Arundel Medical Center,6
+247,Loma Linda University School Of Medicine,6
+248,Staten Island University Hospital,6
+249,Women And Children'S Hospital Of Buffalo,6
+250,The Feinstein Institute For Medical Research,6
+251,Johns Hopkins Hospital,6
+252,University Of Louisville School Of Medicine,6
+253,Johns Hopkins University,6
+254,Uab,6
+255,Medstar Georgetown University Hospital,6
+256,Uniformed Services University Of The Health Sciences,6
+257,Kings County Hospital Center,6
+258,University Of Toledo,6
+259,Yale School Of Medicine,6
+260,Denver Health Medical Center,6
+261,University Of Alabama Birmingham,5
+262,Crozer Chester Medical Center,5
+263,Rice University,5
+264,The University Of Alabama At Birmingham,5
+265,University Of Tennessee Medical Center,5
+266,Naval Medical Center Portsmouth,5
+267,National University Of Rwanda,5
+268,The Alfred Hospital,5
+269,University Of Florida-Jacksonville,5
+270,Keio University School Of Medicine,5
+271,University Of Alabama At Birmingham School Of Medicine,5
+272,Children'S Medical Center,5
+273,Perelman School Of Medicine At The University Of Pennsylvania,5
+274,Cohen Children'S Medical Center,5
+275,The Children'S Hospital Of Alabama,5
+276,University Of Wisconsin-Madison,5
+277,University Of British Columbia,5
+278,Hackensack University Medical Center,5
+279,York Hospital,5
+280,Mcgill University,5
+281,Children'S Hospital Of Pittsburgh Of Upmc,5
+282,Brigham & Women'S Hospital,5
+283,Marshall University Schoool Of Medicine,5
+284,University Of Texas Rio Grande Valley School Of Medicine,5
+285,Ohio State University Wexner Medical Center,5
+286,Hagey Laboratory For Pediatric Regenerative Medicine,5
+287,University Of Iowa Hospitals And Clinics,5
+288,Virginia Commonwealth University School Of Medicine,4
+289,University Of Florida College Of Medicine- Jacksonville,4
+290,Ann And Robert H Lurie Children'S Hospital Of Chicago,4
+291,Penn Medicine Lancaster General Hospital,4
+292,Texas Tech University Health Science Center,4
+293,New York Presbyterian Brooklyn Methodist Hospital,4
+294,Geisel School Of Medicine At Dartmouth,4
+295,Conemaugh Memorial Medical Center,4
+296,University Of Puerto Rico School Of Medicine,4
+297,Valley Children'S Hospital,4
+298,University Of Arkansas,4
+299,West Virginia University School Of Medicine,4
+300,University Of Florida College Of Medicine Jacksonville,4
+301,Henry Ford Health System/Wayne State University,4
+302,Harvard Medical School,4
+303,Hartford Hospital,4
+304,University Of Nevada School Of Medicine,4
+305,The University Of Arizona,4
+306,Tufts University School Of Medicine,4
+307,University Of Nevada,4
+308,Rutgers Robert Wood Johnson Medical School,4
+309,Philadelphia College Of Osteopathic Medicine,4
+310,Ann & Robert H. Lurie Children'S Hospital,4
+311,Naval Medical Research Unit San Antonio,4
+312,The Ohio State Wexner Medical Center,4
+313,Ascension Providence Hospital,4
+314,Texas Tech University Health Sciences,4
+315,Austin Health,4
+316,University Of Rwanda,4
+317,St. George'S University School Of Medicine,4
+318,Mcgovern Medical School At The University Of Texas Health Science Center At Houston,4
+319,Memorial Hermann Hospital,4
+320,Lenox Hill Hospital,4
+321,Children'S Hospital Of Alabama,4
+322,Jikei University School Of Medicine,4
+323,University Of Tennessee Health Sciences Center,4
+324,Northwell Health,4
+325,Mercer University School Of Medicine,4
+326,Center For Surgery And Public Health,4
+327,University Of Maryland Medical Center,4
+328,Riley Hospital For Children,4
+329,John Peter Smith Hospital,4
+330,Rutgers Cancer Institute Of New Jersey,4
+331,Duke University School Of Medicine,4
+332,University Hospital Cleveland Medical Center,4
+333,University Of California - San Francisco - East Bay,4
+334,Aga Khan University Hospital,4
+335,Penn Medicine Lancaster General Health,4
+336,Oregon Health And Sciences University,4
+337,University Of California San Diego,4
+338,The Mount Sinai Hospital,4
+339,Downstate Health Sciences University,4
+340,Oakland University William Beaumont School Of Medicine,4
+341,Ohio State University Wexner Medical Center And James Comprehensive Cancer Center,4
+342,King Faisal Specialist Hospital & Research Center,4
+343,Imperial College London,4
+344,University Of California San Francisco - East Bay,4
+345,University Hospitals Case Medical Center,4
+346,The Feinstein Institutes For Medical Research,4
+347,Stellenbosch University,3
+348,University Of New Mexico,3
+349,Albert Einstein Medical Center,3
+350,University Of Colorado-Denver,3
+351,Lac+Usc Medical Center,3
+352,Westmead Hospital,3
+353,Memorial Sloan-Kettering Cancer Center,3
+354,Mulago Hospital,3
+355,Morehouse School Of Medicine,3
+356,Le Bonheur Children'S Hospital,3
+357,University Of Colorado Anschutz Medical Campus,3
+358,Mayo Clinic In Arizona,3
+359,Keio University,3
+360,University Of California - Riverside,3
+361,University Of Central Florida,3
+362,St. Mary'S Hospital,3
+363,University Of Calgary,3
+364,Stanford University Medical Center,3
+365,Allegheny Health Network Cancer Institute,3
+366,Abington Jefferson Health,3
+367,Intermountain Medical Center,3
+368,University Of Medicine And Dentistry Of New Jersey,3
+369,Adventhealth Orlando,3
+370,Allegheny General Hospital,3
+371,University Of Colorado Hospital,3
+372,St. Louis University,3
+373,Kyushu University,3
+374,University Of Maryland School Of Medicine,3
+375,St. Jude Children'S Research Hospital,3
+376,Mercy Catholic Medical Center,3
+377,Hyogo College Of Medicine,3
+378,Mcgovern Medical School At Uthealth And Childrens Memorial Hermann Hospital,3
+379,University Of Colorado-Anschutz Medical Campus,3
+380,Rutgers,3
+381,St. Christopher'S Hospital For Children,3
+382,Feinstein Institute For Medical Research,3
+383,California Northstate University,3
+384,University Of Toledo College Of Medicine And Life Sciences,3
+385,Orlando Regional Medical Center,3
+386,Saint Louis University,3
+387,Ohiohealth Doctors Hospital,3
+388,Detroit Medical Center,3
+389,University Of Newcastle,3
+390,Walter Reed National Military Medical Center,3
+391,Warren Alpert Medical School Of Brown University,3
+392,Brigham And Womens Hospital,3
+393,Nova Southeastern University Dr. Kiran C. Patel College Of Allopathic Medicine,3
+394,University Of Texas At Southwestern,3
+395,Eastern Hepatobiliary Surgery Hospital,3
+396,University At Buffalo Jacobs School Of Medicine And Biomedical Sciences,3
+397,University Of Tennessee College Of Medicine,3
+398,University College London,3
+399,Northshore University Health System,3
+400,University Hospital,3
+401,University Of Sydney,3
+402,Federal University Of Health Sciences Of Porto Alegre,3
+403,University Of South Florida Health Morsani College Of Medicine,3
+404,David Geffen School Of Medicine At Ucla,3
+405,Ucsf East Bay,3
+406,Our Lady Of The Lake Regional Medical Center,3
+407,Carilion Clinic,3
+408,Vanderbilt University,3
+409,The University Of Hong Kong,3
+410,Children'S Hospital Of Philadelphia,3
+411,Children'S Mercy Hospital - University Of Missouri Kansas City,3
+412,The University Of Chicago Medicine,3
+413,The University Of Chicago,3
+414,Vilnius University,3
+415,University Teaching Hospital Of Kigali,3
+416,Cleveland Clinic Foundation,3
+417,Cardiovascular Outcomes Research Laboratories (Corelab),3
+418,Uc San Diego School Of Medicine,3
+419,Penn State Health Milton S. Hershey Medical Center,3
+420,Concord Repatriation General Hospital,3
+421,Uc Davis,3
+422,University Of Virginia School Of Medicine,3
+423,University Of Virginia Health System,3
+424,Virginia Commonwealth University School Of Medicine And Massey Cancer Center,3
+425,University Of Vermont Medical Center,3
+426,Paracelsus Medical University,3
+427,University Of Utah School Of Medicine,3
+428,Washington University School Of Medicine,3
+429,Georgetown University School Of Medicine,3
+430,Augusta University,3
+431,Nagasaki University,3
+432,George Washington University,3
+433,Harvard School Of Public Health,3
+434,National Taiwan University Hospital,3
+435,Baylor College Of Medicine & Texas Children'S Hospital,3
+436,University Of Alabama School Of Medicine,3
+437,Harbor Ucla Medical Center,3
+438,University Of Rochester Medical Center,3
+439,University Of South Florida,3
+440,Sidney Kimmel Medical College At Thomas Jefferson University,3
+441,Florida State University College Of Medicine/Sarasota Memorial Health Care System,3
+442,National Institutes Of Health,2
+443,University Of Central Florida College Of Medicine,2
+444,Morristown Medical Center,2
+445,Texas Tech University Health Sciences Center El Paso,2
+446,Rutgers-New Jersey Medical School,2
+447,Primary Children'S Hospital,2
+448,Sapienza University Of Rome,2
+449,Providence Hospital And Medical Centers,2
+450,Naval Medical Center San Diego,2
+451,Montefiore Medical Center/Albert Einstein College Of Medicine,2
+452,Nemours Children Hospital,2
+453,University Of Arkansas For Medical Sciences (Uams),2
+454,Nemours Children'S Hospital,2
+455,Parkland Health And Hospital System,2
+456,Mccormick School Of Engineering,2
+457,Rutgers-Robert Wood Johnson Medical School,2
+458,Stroger Hospital Of Cook County,2
+459,Qilu Hospital Of Shandong University,2
+460,Suny Downstate Health Sciences University,2
+461,Roger Williams Medical Center,2
+462,University Of Arizona College Of Medicine,2
+463,Suny Upstate Medical University,2
+464,The University Of Melbourne,2
+465,Royal North Shore Hospital,2
+466,Roswell Park Comprehensive Cancer Center,2
+467,The University Of Kansas Medical Center,2
+468,Makerere University,2
+469,Marian University College Of Osteopathic Medicine,2
+470,The University Of Tennessee Health Science Center,2
+471,The University Of Tennessee Medical Center At Knoxville,2
+472,University Of Chicago Pritzker School Of Medicine,2
+473,Robert Wood Johnson University Hospital,2
+474,The University Of Texas Health Science Center At Houston,2
+475,Nagoya University,2
+476,Renaissance School Of Medicine At Stony Brook University,2
+477,Nagoya University Graduate School Of Medicine,2
+478,Reading Hospital,2
+479,Radboud University Nijmegen Medical Center,2
+480,Southern Illinois University,2
+481,Papageorgiou General Hospital,2
+482,Nemours Childrens Hospital,2
+483,Ucsf Benioff Children'S Hospital Oakland,2
+484,Monash University,2
+485,Michael E. Debakey Va Medical Center,2
+486,Sheba Medical Center,2
+487,University Hospitals Cleveland Medical Center And Case Western Reserve University School Of Medicine,2
+488,Nuvance Health,2
+489,New York Presbyterian Queens,2
+490,State University Of New York Downstate,2
+491,The Feinstein Institute For Medical Research At Northwell Health,2
+492,University At Buffalo,2
+493,Texas Tech University,2
+494,Northwell Health At Staten Island University Hospital,2
+495,St. Lukes University Health Network,2
+496,The Children'S Hospital Of Philadelphia,2
+497,Northshore University Healthsystem,2
+498,New York University,2
+499,State University Of New York,2
+500,University Hospitals Cleveland,2
+501,Newyork-Presbyterian Brooklyn Methodist Hospital,2
+502,Meritus,2
+503,University Hospital Waterford,2
+504,Nippon Medical School,2
+505,Methodist Hospital,2
+506,Lsu Health Shreveport,2
+507,State University Of New York Upstate Medical University,2
+508,The Brookdale University Hospital And Medical Center,2
+509,University Of California Los Angeles,2
+510,Metropolitan Hospital Center,2
+511,Rwanda Military Hospital,2
+512,Shriners Hospitals For Children-Boston,2
+513,Mcgovern Medical School At Ut Health,2
+514,Stony Brook University,2
+515,Sacramento Veterans Affairs Medical Center,2
+516,Mcgovernmedicalschool,2
+517,Saint Agnes Hospital,2
+518,Mcmaster University,2
+519,The Cancer Institute Of New Jersey,2
+520,The Medical University Of South Carolina,2
+521,University Of California At Los Angeles,2
+522,Steward Easton Hospital,2
+523,Texas Children'S Hospital And Baylor College Of Medicine,2
+524,The Ohio State University College Of Medicine,2
+525,Texas Tech University Health Science Center School Of Medicine,2
+526,University Of Buffalo,2
+527,Ohta Nishinouchi General Hospital,2
+528,New York Methodist Hospital,2
+529,Midwestern University,2
+530,Universidade Federal De Cincias Da Sade De Porto Alegre,2
+531,Tecnologico De Monterrey,2
+532,Dartmouth Medical School,2
+533,University Of Utah Health,2
+534,University Of Oklahoma Health Sciences Center,2
+535,University Of Oklahoma Health Science Center,2
+536,Va Boston Healthcare System,2
+537,Harbor-Ucla,2
+538,Harbor-University Of California Los Angeles Medical Center,2
+539,Department Of Emergency Medicine,2
+540,University Of North Carolina At Charlotte,2
+541,Augusta University Medical Center,2
+542,Hca Healthcare/Usf Morsani College Of Medicine Gme: Regional Medical Center Bayonet Point,2
+543,Hca/Usf Regional Medical Center Bayonet Point,2
+544,University Of The Witwatersrand,2
+545,Hofstra Northwell School Of Medicine,2
+546,University Of Colorado Denver School Of Medicine And Children'S Hospital Colorado,2
+547,Dartmouth College,2
+548,University Of Ottawa,2
+549,Western Michigan University,2
+550,University Of Missouri Kansas City School Of Medicine,2
+551,Western Michigan University Homer Stryker M.D. School Of Medicine,2
+552,University Of Missouri Kansas City,2
+553,Hospital Universitario Calixto Garca,2
+554,Hospital Universitario San Ignacio,2
+555,Houston Methodist,2
+556,University Of Michigan Medicine,2
+557,University Of Michigan Hospital,2
+558,University Of Michigan Health System,2
+559,Hyogo Emergency Medical Center,2
+560,Western Michigan University Homer Stryker Md School Of Medicine,2
+561,University Of Vermont College Of Medicine,2
+562,University Of Otago,2
+563,Guangdong Provincial Hospital Of Chinese Medicine,2
+564,Inspira Health Network,2
+565,Florida Hospital Tampa,2
+566,University Of Tennessee Chattanooga,2
+567,Cambridge University Hospitals Nhs Foundation Trust,2
+568,Erie County Medical Center,2
+569,East Tennessee State University College Of Medicine,2
+570,Case Western Reserve University,2
+571,Vu University Medical Center,2
+572,University Of South Florida Health,2
+573,Drexel University,2
+574,Center For Fetal Cellular And Molecular Therapy,2
+575,Firefighters Burn And Surgical Research Laboratory,2
+576,Center For Surgical Outcomes Research,2
+577,Dow University Of Health Sciences,2
+578,Florida Hospital,2
+579,Birmingham Veteran'S Affairs Medical Center,2
+580,Children Hospital Of Illinois / Osf Saint Francis Medical Center,2
+581,Vanderbilt University School Of Medicine,2
+582,Beaumont Health System Research Institute,2
+583,Geisinger,2
+584,Geisinger Health System,2
+585,Georgetown University,2
+586,Digestive Health Institute,2
+587,Valley Health System / Mcallen Medical Center,2
+588,Baylor University,2
+589,Grady Memorial Hospital,2
+590,University Of Texas Southwestern,2
+591,Cheikh Anta Diop University,2
+592,Chiba Rosai Hospital,2
+593,Guangdong Hospital Of Tcm,2
+594,Western University Of Health Sciences,2
+595,Hospitals Insurance Company,2
+596,University Of Florida- Jacksonville,2
+597,Albany Medical Center,2
+598,Kansas City University,2
+599,Karolinska Institutet,2
+600,Kaweah Delta Medical Center,2
+601,University Of Illinois,2
+602,All Children'S Hospital Johns Hopkins Medicine,2
+603,Alfred Hospital,2
+604,Zhongshan Hospital Fudan University,2
+605,University Of Hawaii,2
+606,University Of Georgia,2
+607,Childrens Memorial Hermann Hospital,2
+608,Abrazo Central Hospital,2
+609,Compaeros En Salud,2
+610,Xijing Hospital,2
+611,King'S College Hospital Nhs Foundation Trust,2
+612,Larkin Community Hospital,2
+613,Cohen Children'S Medical Center At Northwell Health,2
+614,Ahmadu Bello University,2
+615,University Of Florida College Of Medicine-Jacksonville,2
+616,Upmc Mercy,2
+617,Komfo Anokye Teaching Hospital,2
+618,University Of Florida College Of Medicine - Jacksonville,2
+619,Yale New Haven Hospital,2
+620,Columbia University,2
+621,All India Institute Of Medical Sciences,2
+622,John R. Oishei Children'S Hospital,2
+623,Louisiana State University Health Sciences Center Shreveport,2
+624,University Of Miami - Miller School Of Medicine,2
+625,William Beaumont Army Medical Center,2
+626,University Of Medicine (1),2
+627,Cooper Medical School Of Rowan University,2
+628,Arkansas Children'S Hospital,2
+629,Jefferson Univeristy Hospital,2
+630,Ariadne Labs,2
+631,Connecticut Burn Center,2
+632,Louisiana State University Health Sciences Center-Shreveport,2
+633,John H. Stroger,2
+634,Adventhealth Tampa,2
+635,Johns Hopkins University School Of Public Health,2
+636,Ann & Robert H. Lurie Childrens Hospital Of Chicago,2
+637,Ann & Robert H Lurie Children'S Hospital Of Chicago,2
+638,Coney Island Hospital,2
+639,University Of Iowa Hospitals & Clinics,2
+640,Louisiana State University Health Sciences Center - Shreveport,2
+641,Toranomon Hospital,1
+642,The Royal Wolverhampton Hospitals Nhs Trust,1
+643,Vassar Brothers Medical Center,1
+644,Thomas E. Starzl Transplantation Institute,1
+645,Upstate Medical University,1
+646,"Vilnius University Hospital ""Santaros Klinikos""",1
+647,The Research Institute At Nationwide Children'S Hospital,1
+648,The University Of North Carolina,1
+649,Upmc,1
+650,Upmc Children'S Hospital Of Pittsburgh,1
+651,Vcu Medical Center,1
+652,The Univeristy Of Texas Health Science Center At Houston,1
+653,Virginai Tech Carilion School Of Medicine,1
+654,Tokyo Metropolitan Cancer And Infectious Diseases Center Komagome Hospital,1
+655,Veterans Affair Medical Center,1
+656,Veterans Affairs Medical Center,1
+657,Veterans Affairs New Jersey Health Care System,1
+658,Tokyo Medical University Hospital,1
+659,The University Of Tokyo,1
+660,Thomas E. Starzl Transplantation Institure,1
+661,The University Of Texas Md Anderson Cancer Center,1
+662,Utmb,1
+663,Utrgv School Of Medicine,1
+664,The University Of Texas Rio Grande Valley,1
+665,The Ohio State University Wexner Medical Center And Ross Heart Hospital,1
+666,The University Of Texas Medical Branch At Galveston,1
+667,The University Of Texas Medical Branch,1
+668,Ut Houston-Memorial Hermann,1
+669,The University Of Toledo College Of Medicine,1
+670,The University Of Toledo Medical Center,1
+671,Uvm Medical Center,1
+672,The University Of Vermont Medical Center,1
+673,Ut Health San Antonio,1
+674,The University Of Oklahoma,1
+675,Va Hsr&D Center For Innovations In Quality,1
+676,Va New Jersey Healthcare System,1
+677,Usc,1
+678,Va North Texas Health Care System,1
+679,Uthsc Com Chattanooga,1
+680,Valley Health System,1
+681,Upstate University Hospital- Downtown Campus,1
+682,The University Of Sydney,1
+683,The University Of Oklahoma School Of Community Medicine,1
+684,Valley Heart And Vascular Institute,1
+685,The Warren Alpert Medical School Of Brown University,1
+686,Virginia Commonwealth University Health System,1
+687,Weill Cornell Medicine,1
+688,Virginia Commonwealth University Medical Center,1
+689,Wolfson Children'S Hospital,1
+690,Texas Tech Health Sciences Center,1
+691,Winship Cancer Institute,1
+692,Willis-Knighton Medical Center,1
+693,William S. Middleton Va Memorial Hospital,1
+694,William Beaumont Hospital,1
+695,White River Junction Va Medical Center,1
+696,Texas Tech University Health Sciences Center At El Paso,1
+697,Western Michigan Universty Homer Stryker Md School Of Medicine,1
+698,Texas Tech University Health Sciences Center In El Paso,1
+699,Texas Tech University Health Sciences Center In El Paso Paul L. Foster School Of Medicine,1
+700,Texas Tech University School Of Medicine,1
+701,The Aga Khan University Hospital,1
+702,The Aga Khan University Hospital Karachi,1
+703,The Alfred,1
+704,Western Michigan Homer Stryker School Of Medicine,1
+705,Texas Tech Health Science Center School Of Medicine,1
+706,Women And Childrens Hospital Of Buffalo,1
+707,The Austin Hospital,1
+708,World Health Organization,1
+709,Teikyo University Hospital Trauma And Resuscitation Center,1
+710,Zhongshsn Hospital Of Fudan University,1
+711,Temple University Health System,1
+712,Zhongshan Hospital Of Fudan University,1
+713,Temple University School Of Medicine,1
+714,Ysbyty Gwynedd Hospital,1
+715,Tetteh Quarshie Memorial Hospital,1
+716,Yokohama City University Medical Center,1
+717,Texas A&M University,1
+718,Yokohama City University,1
+719,Yale School Of Public Health,1
+720,Yale New Haven Health,1
+721,Texas Childrens Hospital - Fetal Center,1
+722,Xijing Hosiptal,1
+723,Xi'An Jiaotong University Second Affiliated Hospital,1
+724,The American British Cowdray Medical Center,1
+725,The Brookdale Hospital And Medical Center,1
+726,Virginia Hospital Center,1
+727,Washington University In St. Louis School Of Medicine,1
+728,The Medical Center Navicent Health,1
+729,Walter Reed Army Medical Center,1
+730,The Miriam Hospital In Rhode Island,1
+731,Wakemed Health & Hospitals,1
+732,Wake Forest University,1
+733,Wake Forest School Of Medicine,1
+734,Wake Forest Baptist Health,1
+735,Wakamatsu Hospital Of University Of Occupational And Environmental Health,1
+736,The Ohio State University Medical Center,1
+737,Virginia Tech Carilion School Of Medicine And Research Institute,1
+738,Virginia Tech,1
+739,The Ohio State University Wexner Medical Center And James Cancer Hospital,1
+740,The Ohio State University Wexner Medical Center And James Cancer Hospital And Solove Research Institute,1
+741,Virginia Polytechnic Institute And State University,1
+742,The Ohio State University Wexner Medical Center And James Comprehensive Cancer Center,1
+743,Washington University In Saint Louis,1
+744,The Jike University School Of Medicine,1
+745,Westchester Medical Center University Hospital,1
+746,The Hospital Of The University Of Pennsylvania,1
+747,The Burn Center,1
+748,Westchester Medical Center / New York Medical College,1
+749,West Virginia University/Charleston Division,1
+750,West Haven Va Medical Center,1
+751,West China School Of Medicine/West China Hospital,1
+752,West China Hospital Of Sichuan University,1
+753,The College Of Surgeons Of East,1
+754,Wellstar Atlanta Medical Center,1
+755,Wellspan York Hospital,1
+756,Weill Cornell Medicine / New York Presbyterian Hospital,1
+757,Unversity Of Kansas Medical Center,1
+758,The Feinstein Institutes For Medical Research At Northwell Health,1
+759,Weill Corenll Medicine,1
+760,The First Affiliated Hospital Of China Medical University,1
+761,The George Washington University,1
+762,Toronto Western Hospital,1
+763,University Of Colorado Anschutz Medical Center,1
+764,Touro University,1
+765,University Of Missouri - Kansas City School Of Medicine,1
+766,University Of Nevada Las Vegas School Of Medicine,1
+767,University Of Arizona College Of Medicine- Phoenix,1
+768,University Of Nebraska Medical School,1
+769,University Of Arizona Medical Center,1
+770,University Of Nebraska,1
+771,University Of Modena And Reggio Emilia,1
+772,University Of Arkansas For Medical Science,1
+773,University Of Mississippi Medical Center,1
+774,University Of North Dakota School Of Medicine And Health Sciences,1
+775,University Of Michigan Medical Center,1
+776,University Of Miami/Holy Cross Health,1
+777,University Of Miami-Miller School Of Medicine,1
+778,University Of Miami- Miller School Of Medicine,1
+779,University Of California - Berkeley,1
+780,University Of California - Berkeley / University Of California - San Francisco,1
+781,University Of Miami Miller School Of Medicine/ Jackson Memorial Hospital,1
+782,University Of Nigeria,1
+783,University Of Oklahoma,1
+784,University Of Medicine 1,1
+785,University Of Pennsylvania Perelman School Of Medicine,1
+786,University Of Abuja-Teaching Hospital,1
+787,University Of Rochester Medical Center - Strong Memorial Hospital,1
+788,University Of Port Harcourt,1
+789,University Of Alabama - Birmingham,1
+790,University Of Pittsburg Medical Center,1
+791,University Of Pennsylvania School Of Medicine,1
+792,University Of Alabama At Birmingham Department Of Surgery,1
+793,University Of Alabama At Birmingham Heersink School Of Medicine,1
+794,University Of Oklahoma - Tulsa,1
+795,University Of Alabama At Birmingham Medical Center,1
+796,University Of Pennsylvania Health System,1
+797,University Of Pennsylvania - Perelman School Of Medicine,1
+798,University Of Pennsvlvania,1
+799,University Of Oxford,1
+800,University Of Alabama-Birmingham,1
+801,University Of Oklahoma School Of Community Medicine,1
+802,University Of Miami Miller School Of Medicine - Holy Cross,1
+803,University Of Massachusetts,1
+804,University Of Rochester School Of Medicine & Dentistry,1
+805,University Of Connecticut School Of Medicine,1
+806,University Of Florida Com-Jacksonville,1
+807,University Of Florida College Of Medicine - Gainesville,1
+808,University Of Central Florida/Hca Consortium Ocala,1
+809,University Of Flordia College Of Medicine,1
+810,University Of Central Florida/Hospital Corporation Of America,1
+811,University Of Delaware,1
+812,University Of Chicago Medicine,1
+813,University Of Connecticut,1
+814,University Of Florida Health,1
+815,University Of Colorado School Of Medicne,1
+816,University Of Cincinnati College Of Medicine,1
+817,University Of Cincinnati Medical College,1
+818,University Of Cincinnati Medical School,1
+819,University Of Colorado School Of Medicine - Children'S Hospital Colorado,1
+820,University Of Colorado - Denver,1
+821,University Of Colorado Anschtuz Medical Campus,1
+822,University Of California San Francsco - East Bay,1
+823,University Of Florida Jacksonville,1
+824,University Of Maryland R A Cowley Shock Trauma Center,1
+825,University Of Incarnate Word,1
+826,University Of Manitoba,1
+827,University Of Lagos,1
+828,University Of Kwazulu-Natal,1
+829,University Of Kansas School Of Medicine,1
+830,University Of Kansas Health System,1
+831,University Of California - San Francisco ,1
+832,Tecnolgico De Monterrey,1
+833,University Of Illinois College Of Medicine At Peoria,1
+834,University Of Florida School Of Medicine,1
+835,University Of California Davis Medical Center,1
+836,University Of California Irvine,1
+837,University Of Illinois College Of Medicine - Peoria,1
+838,University Of California Riverside,1
+839,University Of Houston,1
+840,University Of Health Sciences Of Porto Alegre,1
+841,University Of Global Health Equity,1
+842,University Hospitials,1
+843,University Of Rochester School Of Medicine And Dentistry,1
+844,University Southern California,1
+845,Uf Health Shands Hospital,1
+846,University Of Vermont,1
+847,University Of Utah Health Sciences,1
+848,Ucla And Harbor-Ucla,1
+849,Ucla Fielding School Of Public Health,1
+850,Ucsf,1
+851,Ucsf Fresno,1
+852,University Of The Incarnate Word School Of Osteopathic Medicine,1
+853,Umass Chan Medical School- Baystate,1
+854,Uc San Diego,1
+855,Umass Chan Medical School-Baystate,1
+856,Unc,1
+857,University Of The Incarnate Word,1
+858,University Of Texas Southwestern Medical Center At Dallas,1
+859,Uniformed Services University Of The Health Sciences & The Walter Reed National Military Medical Center,1
+860,University Of Texas Southwestern - Austin,1
+861,Uniformed Services University Of The Health Sciences And Walter Reed National Military Medical Center,1
+862,University Of Vermont Larner College Of Medicine,1
+863,Uab School Of Medicine,1
+864,Univeristy Of Virginia,1
+865,University Of Wiscosin,1
+866,Transplant Center,1
+867,Trinity College Dublin,1
+868,Tripler Army Medical Center,1
+869,Tsinghua University,1
+870,University Radiology At Robert Wood Johnson,1
+871,Tufts University,1
+872,Tufts University Medical School,1
+873,University Of Wisconsin-Hospital & Clinics,1
+874,Uab Heersink School Of Medicine,1
+875,Tufts University School Of Medicine - Maine Medical Center,1
+876,University Of Wisconsin Madison School Of Medicine And Public Health,1
+877,Tufts University School Of Medicine-Maine Medical Center,1
+878,Tulane University,1
+879,University Of Wisconsin Hospital And Clinics,1
+880,University Of Wisconsin - Madison,1
+881,University Of Wi School Of Medicine And Public Health,1
+882,University Of Texas Rio Grande Valley School Of Medicine/ Ut Health Rio Grande Valley,1
+883,University Of Texas Rio Grande Valley,1
+884,University Of Sao Paulo,1
+885,University Hospital Galway,1
+886,University Of Tennessee Knoxville,1
+887,University Of Tennessee Health Science Center (Uthsc),1
+888,University Of Tennessee At Chattanooga,1
+889,University Health Network,1
+890,University Of Tennessee,1
+891,University Of Tennesse Health Sciences,1
+892,University Of Szeged,1
+893,University Of South Dakota,1
+894,University Cheikh Anta Diop And Grand Yoff General Hospital,1
+895,University Hospital Ibn Sina Um5,1
+896,University Hospital Limerick,1
+897,University Of South Carolina,1
+898,University Hospital Zurich,1
+899,University Hospitals,1
+900,University Of South Alabama Medical Center,1
+901,University Of South Alabama College Of Medicine,1
+902,University College Hospital Galway,1
+903,University At Buffalo School Of Medicine And Biomedical Sciences,1
+904,University Of Texas Medical School At Houston,1
+905,Universidade De S&Atilde;O Paulo,1
+906,Universidad Catlica Argentina,1
+907,Universidad Ces,1
+908,Universidad De Antioquia,1
+909,Universidad De La Sabana,1
+910,Universidad Industrial De Santander,1
+911,Universidad Nacional De Trujillo,1
+912,Universidad Peruana Cayetano Heredia,1
+913,Universidade De So Paulo,1
+914,University Of Tennessee Medical Canter At Knoxville,1
+915,University Of Texas Health San Antonio,1
+916,University Of Texas Austin Dell Medical School,1
+917,Universit Catholique De Louvain,1
+918,Universitt Catholique De Louvain,1
+919,University Of Texas At Austin Dell Medical School,1
+920,University Of Texas At Austin,1
+921,University Of Tennessee Medical Center - Knoxville,1
+922, Vilnius University,1
+923,Ouhsc,1
+924,Tawam Hospital,1
+925,Feinstein Institutes For Medical Research,1
+926,Emory University Hospital,1
+927,Emory University Rollins School Of Public Health,1
+928,Emory Univesity School Of Medicine,1
+929,Epsom And St Helier University Hospitals Nhs Trust,1
+930,Faculdade De Medicina Da Universidade Federal De Minas Gerais,1
+931,Faculty Of Health Sciences,1
+932,Faculty Of Medical Sciences,1
+933,Faculty Of Medicine,1
+934,Federal Ministry Of Health,1
+935,Federal University Of Health Sciences Of Porto Alegre (Ufcspa),1
+936,Federal University Of Parana,1
+937,Federal University Of Rio Grande Do Norte (Ufrn),1
+938,Feinstein Institute For Molecular Medicine,1
+939,Feinstein Institute Of Medical Research,1
+940,Firefighter'S Burn And Surgical Research Laboratory,1
+941,Global Surgery Student Alliance (Gssa),1
+942,Firefighters' Burn And Surgical Research Laboratory,1
+943,First Affiliated Hospital Of China Medical University,1
+944,Florida International University,1
+945,Forbes Regional Hospital,1
+946,Fordham University,1
+947,Frank H. Netter Md School Of Medicine,1
+948,Froedtert Hospital,1
+949,Froedtert Memorial Lutheran Hospital,1
+950,Fukushima Medical University School Of Medicine,1
+951,Fuwai Hospital,1
+952,Galway Clinic,1
+953,Geisinger Surgery Institute,1
+954,General University Hospital Gregorio Maran,1
+955,George Mason University,1
+956,Emergency & Critical Care Medicine,1
+957,Elmhurst Hospital Center,1
+958,Elmezzi Graduate School Of Molecular Medicine,1
+959,Elective Medical Student,1
+960,Dartmouth Hitchcock,1
+961,Dartmouth-Hitchcock,1
+962,Dartmouth-Hitchock Medical Center,1
+963,David Geffen School Of Medicine At University Of California Los Angeles,1
+964,Dayanand Medical College & Hospital,1
+965,Denis And Lenora Foretia Foundation,1
+966,Department Of Cardiovascular Surgery,1
+967,Department Of Hepatobiliary Surgery And Institute Of Advanced Surgical Technology And Engineering,1
+968,Department Of Pediatric Surgery,1
+969,Department Of Plastic And Reconstructive Surgery,1
+970,Department Of Surgery Harvard Medical School,1
+971,Department Of Veterans Affairs Medical Center,1
+972,Dept. Of Otorhinolaryngology,1
+973,Derby Hospitals Nhs Foundation Trust,1
+974,Division Of Child And Adolescent Health,1
+975,Division Of Surgical Oncology,1
+976,Divisions Of Pediatric Surgery And Surgical Research,1
+977,Donald & Barbara Zucker School Of Medicine At Hofstra/Northwell,1
+978,Drexel University/Hahnemann University Hospital,1
+979,Durham Veterans Affairs Medical Center,1
+980,East Carolina University,1
+981,East Hospital,1
+982,East Tennesse State University,1
+983,East Tennessee State University - Quillen College Of Medicine,1
+984,East Texas Medical Center,1
+985,Edward Via College Of Osteopathic Medicine,1
+986,Einstein Healthcare Network,1
+987,Einstein Medical Center,1
+988,Einstein Medical Center Philadelphia,1
+989,Georgetown University Law Center,1
+990,Graduate Institute Of Anatomy And Cell Biology,1
+991,Targeted And Biological Therapies Group,1
+992,Institute For Health Policy And Innovation,1
+993,Hospital Of Hope,1
+994,Hospital Pedro De Bethancourt,1
+995,"Hospital Universitario ""General Calixto-Garcia""",1
+996,Houston Methodist Hospital And Research Institute,1
+997,Houston Methodist Research Institute,1
+998,Howard Hughes Medical Institute,1
+999,Howard University,1
+1000,Hunter Medical Research Institute,1
+1001,Hunter New England Health,1
+1002,Huntington Hospital/Northwell Health,1
+1003,Huntsman Cancer Institute At The University Of Utah,1
+1004,Ichihara Hospital,1
+1005,Imperial College,1
+1006,Imperial College Healthcare Nhs Trust,1
+1007,Institute Of Clinical Medicine,1
+1008,Grady Hospital,1
+1009,Instituto Nacional De Cancerologa,1
+1010,Instituto Nacional De Cancerologia,1
+1011,Instituto Tecnolgico Y De Estudios Superiores De Monterrey,1
+1012,Intermountain Primary Children'S Hospital,1
+1013,Iu School Of Medicine,1
+1014,Jacobs School Of Medicine And Biomedical Sciences,1
+1015,Jamaica Hospital Medical Center,1
+1016,James Cook University,1
+1017,James Madison University,1
+1018,Japanese Red Cross Maebashi Hospital,1
+1019,Jawaharlal Institute Of Postgraduate Medical Education And Research,1
+1020,Jellison Cancer Institute/ Florida State University College Of Medicine,1
+1021,Jesse Brown Va Medical Center,1
+1022,Joe Dimaggio Children'S Hospital,1
+1023,Hospital Jose Maria Cabral Y Baez,1
+1024,Hospital Erasto Gaertner - Federal University Of Parana,1
+1025,Hospital Episcopal San Lucas,1
+1026,Hospital Das Clnicas Da Universidade Federal De Minas Gerais,1
+1027,Grant Medical Center/Ohio University Heritage College Of Medicine,1
+1028,Great Ormond Street Institute Of Child Health,1
+1029,Griffith University,1
+1030,Groote Schuur Hospital,1
+1031,Guangdong Hospital Of Traditional Chinese Medicine,1
+1032,Gundersen Health System,1
+1033,Guobin Chen,1
+1034,Guthrie / Robert Packer Hospital,1
+1035,Guy'S & St Thomas' Nhs Foundation Trust,1
+1036,Hadassah-Hebrew University Medical Center,1
+1037,Hahnemann University Hospital,1
+1038,Hahnemann University Hospital/Drexel University College Of Medicine,1
+1039,Harbor- Ucla,1
+1040,Harlem Hospital,1
+1041,Harvard Beth Israel Deaconess Medical Center,1
+1042,Harvard Medical School And Harvard T. H. Chan School Of Public Health. Brigham And Women'S Hospital,1
+1043,Harvard Medical School. Brigham And Women'S Hospital,1
+1044,Harvard T.H. Chan School Of Public Health,1
+1045,Hatton Research Institute,1
+1046,Hca,1
+1047,Hca Healthcare/Usf Morsani College Of Medicine Gme,1
+1048,Hca/Usf/Regional Medical Center Bayonet Point,1
+1049,Hepatobiliary And Pancreatic Unit Hospital Pablo Tob=N Uribe (Hptu) ,1
+1050,Highland Hospital,1
+1051,Hofstra-Northwell School Of Medicine,1
+1052,Hoftstra Northwell School Of Medicine,1
+1053,Hokkaido University,1
+1054,Honorary,1
+1055,Hornepayne General Hospital,1
+1056,Dartmouth Cancer Center,1
+1057,Dalhousie University,1
+1058,Cuny School Of Medicine,1
+1059,Baylor Univeristy Medical Center,1
+1060,Augusa State University,1
+1061,Augusta University At The Medical College Of Georgia,1
+1062,Austin Hospital,1
+1063,Banner University Medical Center - Tucson - Banner Health,1
+1064,Banner University Medical Center- Phoenix,1
+1065,Banner University Medical Center/ University Of Arizona,1
+1066,Banner- University Of Arizona,1
+1067,Banner- University Of Arizona Medical Center,1
+1068,Banner-University Of Arizona,1
+1069,Bassett Medical Center,1
+1070,Baylor College Of Medicine / Michael E. Debakey Va Medical Center,1
+1071,Baylor College Of Medicine And Texas Childrens Hospital,1
+1072,Baylor Scott & White Medical Center-Temple,1
+1073,Baylor St. Lukes Medical Center,1
+1074,Baylor University Medical Center,1
+1075,Crozer-Keystone Medical Center,1
+1076,Beaumont Health,1
+1077,Beth Israel Deconess Medical Center,1
+1078,Beth Israel Lahey Hospital,1
+1079,Bethany Kids At Aic Kijabe Hospital,1
+1080,Biolife4D,1
+1081,Birmingham Va Medical Center,1
+1082,Boston University Medical Center,1
+1083,Brigham Young University,1
+1084,Brighton And Sussex University Hospitals Nhs Trust,1
+1085,Bronx Care (Lebanon) Hospital,1
+1086,Bronx- Lebanon Hospital Center,1
+1087,Brooklyn Hospital Center,1
+1088,Brookwood Baptist Health System,1
+1089,Broward Health,1
+1090,Auckland City Hospital,1
+1091,Atrium Health Wake Forest Baptist Health,1
+1092,Atrium Health Navicent,1
+1093,Ascension St. Vincent Hospital,1
+1094,A T Still University,1
+1095,A.T. Still University,1
+1096,Abilene Christian University,1
+1097,Abington Hospital,1
+1098,Academic Medical Center,1
+1099,Addenbrookes Hospital,1
+1100,Addis Ababa University,1
+1101,Advent Health Orlando,1
+1102,Adventhealth Cancer Institute,1
+1103,Advocate Lutheran General Hospital,1
+1104,Affiliated Zhongda Hospital,1
+1105,Aga Khan University Hospital Karachi,1
+1106,Air Force Institute Of Technology,1
+1107,Akron General Medical Center,1
+1108,Albert Einstein College Of Medicine / Montefiore Medical Center,1
+1109,Albert Einstein College Of Medicine And Montefiore Medical Center,1
+1110,Alfred Health,1
+1111,Allegheny Health Network,1
+1112,Alpert Medical School Of Brown University,1
+1113,American Academy Of Pediatrics Section On Surgey,1
+1114,Amsterdamumc,1
+1115,An-Najah University,1
+1116,Ankara University Faculty Of Medicine,1
+1117,Ankara Yildirim Beyazit University,1
+1118,Ann And Robert H. Lurie Children'S Hospital,1
+1119,Arnot Ogden Medical Center,1
+1120,Asahi General Hospital,1
+1121,Ascension Providence,1
+1122,Ascension Saint Agnes Healthcare,1
+1123,Brown University - Rhode Island Hospital,1
+1124,Brown University / Rhode Island Hospital,1
+1125,Brown University Medical School/Rhode Island Hospital,1
+1126,Children'S Medical Center Dallas,1
+1127,Children'S Mercy Hospital-University Of Missouri Kansas City,1
+1128,Children'S Mercy Kansas City,1
+1129,Children'S National Health System,1
+1130,Children'S National Medical Center,1
+1131,Childrens Hospital Colorado/University Of Colorado School Of Medicine,1
+1132,Childrens Hospital Of Los Angeles,1
+1133,Childrens Hospital Of Pittsburgh Of Upmc,1
+1134,Chittagong Medical College Hospital,1
+1135,Christian Medical College,1
+1136,Cinch Valley Medical Center,1
+1137,Cincinnati Children'S Hospital Medical Center (Cchmc),1
+1138,Cincinnati Childrens Hospital And Medical Center,1
+1139,Cincinnati Childrens'S Hospital Medical Center,1
+1140,City Of Hope Comprehensive Cancer Center,1
+1141,City University Of New York,1
+1142,Clement J Zablocki Veterans Affairs Medical Center,1
+1143,Cmc Hospital,1
+1144,Cohen Children'S Hospital,1
+1145,Cold Spring Harbor Laboratory,1
+1146,College Of Medicine And Allied Health Sciences,1
+1147,Columbia University Irving Medical Center,1
+1148,Companeros En Salud,1
+1149,Concord Hospital,1
+1150,Consulente Policlinico San Pietro,1
+1151,Cook County Health,1
+1152,Cook County Health And Hospitals System,1
+1153,Copenhagen University Hospital,1
+1154,Creighton University,1
+1155,Crown Princess Mary Cancer Centre,1
+1156,Children'S Mercy Hospital And Clinics,1
+1157,Children'S Hospital Of Pittsburgh,1
+1158,C.S. Mott Children'S Hospital,1
+1159,Children'S Hospital Of Michigan,1
+1160,C.S.Mott Children'S Hospital,1
+1161,California Northstate University College Of Medicine,1
+1162,California Northstate University College Of Pharmacy,1
+1163,Cambridge University Medical School,1
+1164,Cancer Institute Hospital,1
+1165,Cardinal Glennon Children'S Hospital,1
+1166,Cardinal Glennon Childrens Medical Center,1
+1167,Cardiovascular Outcomes Research Laboratories (Corelab) At University Of California,1
+1168,Carle Foundation Hospital,1
+1169,Carnegie Mellon University,1
+1170,Carolinas Healthcare System,1
+1171,Cedars-Sinai,1
+1172,Center For Fetal And Placental Research,1
+1173,Center For Global Surgical Studies,1
+1174,Center For Innovations In Quality,1
+1175,Center For Perinatal Research,1
+1176,Center For Translational Injury Research,1
+1177,Center Of Advanced Surgical Oncology,1
+1178,Centre For Biomedical Technologies,1
+1179,Centre Hospitalier De L'Universit De Montral,1
+1180,Centro Mtdico Abc,1
+1181,Chandler Regional Medical Center,1
+1182,Chang Gung Memorial Hospital,1
+1183,Chicago Medical School - Rosalind Franklin University Of Medicine And Science,1
+1184,Chicago Medical School At Rosalind Franklin University,1
+1185,Children Mercy'S Hospital,1
+1186,Children'S Hospital At Oklahoma University Medicine,1
+1187,Children'S Hospital Los Angeles/The Saban Research Institute,1
+1188,Children'S Hospital Of Los Angeles,1
+1189,John D. Dingell Va Medical Center,1
+1190,John H Stroger Jr Hospital Of Cook County,1
+1191,John Wayne Cancer Institute/Providence St. John'S Medical Center,1
+1192,Rady Children'S Hospital - San Diego,1
+1193,Price Institue Of Surgical Research,1
+1194,Price Institute Of Of Surgical Research And The Section Of Colorectal Surgery,1
+1195,Price Institute Of Surgical Research And The Section Of Colorectal Surgery,1
+1196,Primary Childrens Hospital,1
+1197,Prince Of Wales Hospital,1
+1198,Pritzker School Of Medicine At The University Of Chicago,1
+1199,Program In Global Surgery And Social Change-Harvard Medical School,1
+1200,Qassim University,1
+1201,Queen Elizabeth Central Hospital,1
+1202,Queen Elizabeth University Hospital,1
+1203,Queen Mary,1
+1204,R Adams Cowley Shock Trauma Center,1
+1205,Rabin Medical Center,1
+1206,Rady Children'S Hospital,1
+1207,Rady Children'S Hospital/ Uc San Diego,1
+1208,Nyu Winthrop Hospital,1
+1209,Red Duke Trauma Institute,1
+1210,Richmond Hill Urology And Prostate Institute,1
+1211,Richmond Hill Urology Practice & Prostate Institute,1
+1212,Rigshospitalet,1
+1213,Riverside University Health System,1
+1214,Robert H. Lurie Comprehensive Cancer Center,1
+1215,Rocky Vista University,1
+1216,Rosalind Franklin University Of Medicine And Science,1
+1217,Royal Free Hospital Nhs Foundation Trust,1
+1218,Royal Prince Alfred Hospital,1
+1219,Russells Hall Hospital,1
+1220,Rutgers - New Jersey Medical School,1
+1221,Rutgers - Njms,1
+1222,Rutgers - Robert Wood Johnson Medical School,1
+1223,Pontificia Universidad Javeriana - Hospital Universitario San Ignacio,1
+1224,Plastic And Reconstructive Surgery Department,1
+1225,Physis Group,1
+1226,Physiotherapy Dept. Health Sciences,1
+1227,Ochsner Lsu Health Sciences Center,1
+1228,Ochsner Lsu Health Shreveport,1
+1229,Ohio State University Wexner Medical Center And James Comprehensive Center,1
+1230,Ohio University,1
+1231,Ohio University Heritage College Of Osteopathic Medicine,1
+1232,Ohiohealth/Grant Medical Center,1
+1233,Okayama University Graduate School Of Medicine,1
+1234,Okinawa Chubu Hospital,1
+1235,Oklahoma Children'S Hospital,1
+1236,Ontario Telemedicine Network (Otn),1
+1237,Oregon Health & Science University,1
+1238,Osaka Saiseikai-Noe Hospital,1
+1239,Osaka University,1
+1240,1Stroger Hospital Of Cook County,1
+1241,Pacific Northwest University Of Health Sciences,1
+1242,Palmetto General Hospital,1
+1243,Palmetto General Hospital- Center For Advanced Surgical Oncology,1
+1244,Panzi Hospital,1
+1245,Partners In Health Mexico,1
+1246,Penn State Children'S Hospital,1
+1247,Penn State Health Hershey Medical Center,1
+1248,Penn State Health Milton S Hershey Medical Center,1
+1249,Penn State Milton S. Hershey Medical Center,1
+1250,Pennington Biomedical Research Center,1
+1251,Pennstate Health Milton S. Hershey Medical Center,1
+1252,Pennsylvania State University College Of Medicine,1
+1253,Perelman School Of Medicine At University Of Pennsylvania,1
+1254,Phoenix Children'S Hospital,1
+1255,Physicians For Peace,1
+1256,Rutgers Health New Jersey Medical School,1
+1257,Rutgers New Jersey Medical School/ University Hospital,1
+1258,Rutgers New Jersey Medical School/University Hospital,1
+1259,Simpson Querrey Institute For Bionanotechnology,1
+1260,Sky Ridge Medical Center,1
+1261,Sociedad Quirrgica S.C. At The American British Cowdray Medical Center,1
+1262,Socios En Salud,1
+1263,Soroti Regional Referral Hospital,1
+1264,South Central Regional Medical Center,1
+1265,Southside Hospital / Northwell Health,1
+1266,Ssm Cardinal Glennon Children'S Hospital,1
+1267,St Agnes Hospital,1
+1268,St Jude Childrens Research Hospital,1
+1269,St Luke'S University Health Network,1
+1270,St. John'S University College Of Pharmacy And Health Sciences,1
+1271,St. Joseph Mercy Ann Arbor,1
+1272,St. Joseph'S Mercy Hospital,1
+1273,St. Joseph'S University Medical Center,1
+1274,St. Luke'S Hospital Plaza- Kansas City,1
+1275,St. Luke'S Roosevelt Hospital Center,1
+1276,St. Luke'S University Hospital,1
+1277,Stanford Medicine,1
+1278,Stanford School Of Medicine And Palo Alto Va Hcs,1
+1279,State University Of Haiti,1
+1280,Staten Island University Hospital-Northwell Health,1
+1281,Steven And Alexandra Cohen Children'S Medical Center,1
+1282,Stony Brook University Hospital,1
+1283,Stratus Center For Medical Simulation,1
+1284,Sunnybrook Health Sciences Centre,1
+1285,Surgical Outcomes And Quality Improvement Center (Soqic),1
+1286,Swedish Medical Center,1
+1287,Sylvester Cancer Center,1
+1288,Taipei Medical University - Shuang Ho Hospital,1
+1289,Sinai Hospital,1
+1290,Shock Trauma Center At University Of Maryland,1
+1291,Rutgers Robert Wood Johnson,1
+1292,Shizuoka Children'S Hospital,1
+1293,Rutgers Robert Wood Johnson University Hospital,1
+1294,Rutgers School Of Biomedical Sciences,1
+1295,Rutgers School Of Dental Medicine,1
+1296,Rutgers University  Biomedical And Health Sciences,1
+1297,Rutgers University - Robert Wood Johnson Medical School,1
+1298,Rutgers University-Newark,1
+1299,Rutgers-Robert Wood Johnson University Hospital,1
+1300,Sacramento Va Medical Center,1
+1301,Saint Agnes Healthcare,1
+1302,Saint Agnes Hospital Center And Cancer Institute,1
+1303,Saint Boniface Hospital,1
+1304,Saint Elizabeth Medical Center,1
+1305,Saint Mary'S Hospital,1
+1306,Samford University,1
+1307,Samuel S Stratton Veteran Affairs Medical Center,1
+1308,San Antonio Military Medical Center,1
+1309,San Francisco General Hospital And The University Of California,1
+1310,San Francisco State University,1
+1311,San Jose State University,1
+1312,Sanford Burnham Prebys Medical Discovery Institute,1
+1313,Sapporo Ishiyama Hospital,1
+1314,Sapporo Medical University Hospital,1
+1315,Saveetha Medical College And Hospital,1
+1316,Scripps Mercy Hospital,1
+1317,Scripps Mercy Hospital Trauma Service,1
+1318,Sefako Makgatho Health Sciences University,1
+1319,Semmelweis University,1
+1320,Shinshu Medical University,1
+1321,Shinshu University Of Medicine,1
+1322,Ocala Regional Medical Center,1
+1323,Nyu School Of Medicine,1
+1324,Johns Hopkins,1
+1325,Marquette University,1
+1326,Legacy Good Samaritan Medical Center,1
+1327,Leiden University Medical Center,1
+1328,Lincoln Medical Center,1
+1329,Liver And Pancreas Transplant Center,1
+1330,Louisiana State University,1
+1331,Louisiana State University Health - Shreveport,1
+1332,Louisiana State University Health Sciences Center- Shreveport,1
+1333,Lousiana State University In Shreveport,1
+1334,Loyola University Chicago,1
+1335,Loyola Universtiy Medical Center,1
+1336,Magee-Womens Research Institute,1
+1337,Makerere University School Of Medicine,1
+1338,Marin General Hospital,1
+1339,Marin Health Medical Center,1
+1340,Marshall Institute For Interdisciplinary Research,1
+1341,Nyu Langone Hospital-Brooklyn,1
+1342,Marshall University Joan C. Edwards School Of Medicine,1
+1343,Marshall University School Of Medcine,1
+1344,Marshfield Clinic Health Center,1
+1345,Marshfield Clinic Health System,1
+1346,Marshfield Medical Center,1
+1347,Mary Bridge Children'S Health Center,1
+1348,Massachusetts General Hospital & Harvard Medical School,1
+1349,Mater Adult Brisbane Hospital,1
+1350,Matola Hospital,1
+1351,Matsushima Hospital,1
+1352,Mayo Clinic - Rochester,1
+1353,Mayo Clinic Rochester,1
+1354,Mbarara University Of Science And Technology,1
+1355,Mcgill University Health Centre,1
+1356,Lankenau Medical Center,1
+1357,Lahore General Hospital,1
+1358,Lahey Hospital Medical Center,1
+1359,Lahey Hospital And Medical Center,1
+1360,Johns Hopkins Bayview Medical Centre,1
+1361,Johns Hopkins Bloomberg School Of Public Health,1
+1362,Johns Hopkins Medicine International,1
+1363,Johns Hopkins School Of Medicine,1
+1364,Johns Hopkins Surgery Center For Outcomes Research,1
+1365,Johns Hopkins University Bloomberg School Of Public Health,1
+1366,Kagoshima University,1
+1367,Kampala International University Western Campus,1
+1368,Kamuzu Central Hospital,1
+1369,Karmanos Cancer Institute,1
+1370,Kashiwa Kosei General Hospital,1
+1371,Keck School Of Medicine,1
+1372,Keck School Of Medicine Of The University Of Southern California,1
+1373,Keio Universiry,1
+1374,Kibungo Referral Hospital,1
+1375,Kinan Hospita,1
+1376,King Abdulaziz Medical City,1
+1377,King Edward Medical University,1
+1378,King Faisal Specialist Hospital And Research Center (Kfsh),1
+1379,King George'S Medical University,1
+1380,King University,1
+1381,King'S College London School Of Medicine,1
+1382,King'S Mill Hospital,1
+1383,Kobe University,1
+1384,Komaki Municipal Hospital,1
+1385,Kravis Children'S Hospital At Mount Sinai,1
+1386,Kyushu University Beppu Hospital,1
+1387,Laboratory For Regenerative Tissue Repair,1
+1388,Lagos University Teaching Hospital,1
+1389,Mcgovern Medical School At Uthealth And Children'S Memorial Hermann,1
+1390,Md Anderson Cancer Center,1
+1391,Medical Center,1
+1392,Nemours/Alfred I Dupont Hospital For Children,1
+1393,New York Hospital Queens,1
+1394,New York Institute Of Technology,1
+1395,New York Presbyterian Hospital - Weill Cornell Medical College,1
+1396,New York Presbyterian Hospital-Columbia,1
+1397,New York Presbyterian Hospital/Weill Cornell Medicine,1
+1398,New York Presbyterian/Columbia University Medical Center,1
+1399,New York University Langone Health,1
+1400,New York University Langone Hospital - Long Island,1
+1401,New York-Presbyterian-Cornell,1
+1402,Newyork-Presbyterian Hospital/Weill Cornell Medical Center,1
+1403,Newyork-Presbyterian Queens,1
+1404,Newyork-Presbyterian/Queens,1
+1405,Niigata University,1
+1406,Nkafu Policy Institute,1
+1407,North Shore University Hospital,1
+1408,North Shore University Hospital And Long Island Jewish Medical Center,1
+1409,Northern Ontario School Of Medicine(Nosm) University,1
+1410,Northwell - Staten Island University Hospital,1
+1411,Northwell Health Cancer Institute At Northwell Center For Advanced Medicine,1
+1412,Northwell Health North Shore/Long Island Jewish Hospital,1
+1413,Northwell Health System - Long Island Jewish Medical Center,1
+1414,Northwell Northshore/Long Island Jewish,1
+1415,Northwestern Memorial Hospital,1
+1416,Northwestern University Feinberg School Of Medicine And Ann & Robert H. Lurie Childrens Hospital Of Chicago,1
+1417,Northwestern University- Feinberg School Of Medicine,1
+1418,Nyc Health +Hospitals/ Elmhurst,1
+1419,Nyu Langone Health,1
+1420,Nyu Langone Hospital,1
+1421,Nyu Langone Hospital - Long Island,1
+1422,Nepal Medical College And Teaching Hospital,1
+1423,Nemours Children'S Health System,1
+1424,Medical College Of Georgia At Augusta University,1
+1425,Nemours Children'S Health,1
+1426,Medical College Of Wisconsin & Froedert Hospital,1
+1427,Medical College Of Wisconsin Affiliated Hospitals,1
+1428,Medstar Georgetown University Hospital/Washington Hospital Center,1
+1429,Medstar-Georgetown University Medical Center,1
+1430,Memorial University Medical Center,1
+1431,Memorial University Medical Center-Mercer University School Of Medicine,1
+1432,Mercy Medical Center,1
+1433,Mercyone Des Moines,1
+1434,Mgh Institute Of Health Professions,1
+1435,Mgh Institute Of Technological Assessment,1
+1436,Miami Valley Hospital,1
+1437,Michael E Debakey Va Medical Center,1
+1438,Michigan Medicine University Of Michigan,1
+1439,Milton S. Hershey Medical Center,1
+1440,Mission Hospitals,1
+1441,Moi Teaching And Referral Hospital,1
+1442,Monash University Endocrine Surgery Unit,1
+1443,Monmouth Medical Center,1
+1444,Monroe Carell,1
+1445,Montefiore Medical Center/Albert Einstien College Of Medicine,1
+1446,Moores Cancer Center,1
+1447,Morsani College Of Medicine,1
+1448,Musc,1
+1449,National Clinician Scholars Program,1
+1450,Nationwide Childrens Hospital,1
+1451,Naval Medical Center,1
+1452,Nebraska Medical Center,1
+1453,Nemour'S Children'S Hospital; University Of Central Florida,1
+1454,Nemours Alfred I Dupot Hospital For Children,1
+1455,Zucker School Of Medicine At Hofstra,1
